@@ -11,7 +11,7 @@ namespace Fuse
         static void Main(string[] args)
         {
 
-            String Name = "Test123";
+            String Name = "Test";
             Console.WriteLine(Name);
             Console.ReadLine();
         }
